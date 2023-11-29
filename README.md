@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - I specialize in React Text and TextInput components (my facebook/react-native [pull requests][2]).
-- This is my [resume][3], [LinkedIn][4], [StackOverflow][7]
-
+- Here you can find my [resume][3], [LinkedIn][4] and [StackOverflow][7] profiles.
+- 2020 [video summary][6] of my opensource contributions. 
+- 2018 [video summary][7] of my portfolio of apps
 
 [1]: https://github.com/facebook/react-native
 [2]: https://github.com/facebook/react-native/pulls/fabriziobertoglio1987
@@ -11,5 +12,5 @@
 
 
 [5]: https://youtu.be/9RQ2GiApkzU?si=xP3hTA5cY53O6ZbT "Presentation at react-native-eu"
-[6]: https://www.youtube.com/embed/e-xMvhm_rXQ "Youtube presentation of my portfolio"
+[6]: https://youtu.be/e-xMvhm_rXQ?si=vDjiIOcE5v7au2dI "Youtube presentation of my portfolio"
 [7]: https://stackoverflow.com/users/7295772/fabrizio-bertoglio "stackoveflow profile"
