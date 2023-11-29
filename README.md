@@ -1,8 +1,8 @@
-**2020-Present**: I specialize in React `Text` and `TextInput` components. Here you can find my `facebook/react-native` [pull requests][2].
+**2020-Present**: Specialized in React `Text` and `TextInput` components. Here you can find my `facebook/react-native` [pull requests][2].
 
-**2020**: This is a 2020 [video summary][5] of my opensource contributions.
+**2020**: [Video summary][5] of my opensource projects.
 
-**2017**: I developed the following portfolio of apps. You can find a video presentation [here][6]. Below and in 2017 github history you can find more info.
+**2017**: [Video presentation][6] of different apps that I developed in 2017. More info below:
   
 <details><summary>Portfolio of Apps (Github opensource projects 2017)</summary>
 <p>
@@ -50,6 +50,8 @@ Github Page [here](https://github.com/fabriziobertoglio1987/SocialNetwork)
 
 </p>
 </details>
+
+**2012-2017**: Previous experience with Java (ERP Software).
 
 Here you can find my [resume][3], [LinkedIn][4], [Upwork][8] and [StackOverflow][7] profiles. This is my [Github Sponsor page](https://github.com/sponsors/fabriziobertoglio1987).
 
