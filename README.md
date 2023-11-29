@@ -14,3 +14,4 @@
 [5]: https://youtu.be/9RQ2GiApkzU?si=xP3hTA5cY53O6ZbT "Presentation at react-native-eu"
 [6]: https://youtu.be/e-xMvhm_rXQ?si=vDjiIOcE5v7au2dI "Youtube presentation of my portfolio"
 [7]: https://stackoverflow.com/users/7295772/fabrizio-bertoglio "stackoveflow profile"
+[8]: https://www.upwork.com/freelancers/~01ae44247887fa908b "upwork"
