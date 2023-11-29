@@ -14,9 +14,9 @@ The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA)
 
 | Surfcheck    | SprachSpiel | GrowStartups |
 | ----------- | ----------- | ----------- |
-| <video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/42e687b7-4f02-4dfb-bb3d-7288e1d7e93b" width="350" />      | <img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" />   |  <video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/f582cbf1-8cf9-454e-91fb-a3ac9e4dc2e6.gif" width="350" />       |
+| <video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/42e687b7-4f02-4dfb-bb3d-7288e1d7e93b" width="350" />      | <img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" />   |    <img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif" />    |
 
-https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif
+
 
 
 </p>
