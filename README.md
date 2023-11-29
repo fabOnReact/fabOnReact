@@ -1,4 +1,4 @@
-**2020-Present**: Specialized in React Text and TextInput components. Here you can find my `facebook/react-native` [pull requests][2].
+**2020-Present**: Specialized in React `Text` and `TextInput` components. Here you can find my `facebook/react-native` [pull requests][2].
 
 **2020**: This is a 2020 [video summary][5] of my opensource contributions.
 
