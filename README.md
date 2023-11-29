@@ -14,7 +14,7 @@ Surf Forecasting Mobile [Iphone](https://github.com/fabriziobertoglio1987/surfna
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
 
-<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/42e687b7-4f02-4dfb-bb3d-7288e1d7e93b" width="300" />     
+<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/42e687b7-4f02-4dfb-bb3d-7288e1d7e93b" width="350" />     
 
 </p>
 </details>
@@ -27,7 +27,7 @@ Language Game helping students to practice german skills through an in game live
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
 
-<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/5ebea0a6-c8d8-43d1-a8a1-7133adee9cbc" width="300" /> 
+<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/5ebea0a6-c8d8-43d1-a8a1-7133adee9cbc" width="350" /> 
 
 </p>
 </details>
