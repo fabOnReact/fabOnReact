@@ -27,7 +27,7 @@ Language Game helping students to practice german skills through an in game live
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
 
-<img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" width="300" /> 
+<img poster="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" width="300" /> 
 
 </p>
 </details>
