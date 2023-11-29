@@ -27,7 +27,7 @@ Language Game helping students to practice german skills through an in game live
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
 
-<img poster="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" width="300" /> 
+<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/5ebea0a6-c8d8-43d1-a8a1-7133adee9cbc" width="300" /> 
 
 </p>
 </details>
@@ -39,7 +39,8 @@ Startups can use the app to distribute fliers in different cities around the wor
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
 
-<img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif" width="300" autoplay />   
+<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/c8b60c77-6095-43a9-85fa-883776f791a2" width="350" />   
+
 
 </p>
 </details>
