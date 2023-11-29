@@ -9,7 +9,8 @@
 
 - **SurfCheck**: Surf Forecasting Mobile [Iphone](https://github.com/fabriziobertoglio1987/surfnative), [Android](https://github.com/fabriziobertoglio1987/surfnative) and [WebApp](https://surfforecast.xyz/) built with Ruby on Rails and React-Native. The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA) is published on postman.
 - **SprachSpiel**: Language Game helping students to practice german skills through an in game live chat built with [ActionCable](https://guides.rubyonrails.org/action_cable_overview.html). Available for Desktop, Mobile and Tablet. [Android Native Mobile App](https://github.com/fabriziobertoglio1987/sprachspiel-android) available for download built with turbolinks-android and Ruby on Rails Website
-- **GrowStartups**: Startups can use the app to distribute fliers in different cities around the world. Available for Desktop, Mobile and Tablet, possible launch to the App Stores in the future.
+- **GrowStartups**: Startups can use the app to distribute fliers in different cities around the world. Available for Desktop, Mobile and Tablet, possible launch to the App Stores in the future ([project](https://github.com/fabriziobertoglio1987/freeAdsWorldwide)).
+- **BarteringApps**: Github Page [here](https://github.com/fabriziobertoglio1987/SocialNetwork)
 
 | Surfcheck    | SprachSpiel | GrowStartups |
 | ----------- | ----------- | ----------- |
