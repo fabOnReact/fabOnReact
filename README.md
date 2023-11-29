@@ -1,8 +1,8 @@
 **2020-Present**: I specialize in React Text and TextInput components. Here you can find my facebook/react-native [pull requests][2].
 
-**2020**: This is a 2020 [video summary][6] of my opensource contributions.
+**2020**: This is a 2020 [video summary][5] of my opensource contributions.
 
-**2017**: I developed the following portfolio of apps. You can find a video presentation [here][7]. Below and in 2017 github history you can find more info.
+**2017**: I developed the following portfolio of apps. You can find a video presentation [here][6]. Below and in 2017 github history you can find more info.
   
 <details><summary>Portfolio of Apps (Github opensource projects 2017)</summary>
 <p>
