@@ -7,17 +7,46 @@
 <details><summary>Portfolio of Apps (Github opensource projects 2017)</summary>
 <p>
 
-- **SurfCheck**: Surf Forecasting Mobile [Iphone](https://github.com/fabriziobertoglio1987/surfnative), [Android](https://github.com/fabriziobertoglio1987/surfnative) and [WebApp](https://surfforecast.xyz/) built with Ruby on Rails and React-Native. The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA) is published on postman.
-- **SprachSpiel**: Language Game helping students to practice german skills through an in game live chat built with [ActionCable](https://guides.rubyonrails.org/action_cable_overview.html). Available for Desktop, Mobile and Tablet. [Android Native Mobile App](https://github.com/fabriziobertoglio1987/sprachspiel-android) available for download built with turbolinks-android and Ruby on Rails Website
-- **GrowStartups**: Startups can use the app to distribute fliers in different cities around the world. Available for Desktop, Mobile and Tablet, possible launch to the App Stores in the future ([project](https://github.com/fabriziobertoglio1987/freeAdsWorldwide)).
-- **BarteringApps**: Github Page [here](https://github.com/fabriziobertoglio1987/SocialNetwork)
+### SurfCheck
 
-| Surfcheck    | SprachSpiel | GrowStartups |
-| ----------- | ----------- | ----------- |
-| <video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/42e687b7-4f02-4dfb-bb3d-7288e1d7e93b" width="300" />      | <img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" width="300" />   |    <img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif" width="300" />    |
+Surf Forecasting Mobile [Iphone](https://github.com/fabriziobertoglio1987/surfnative), [Android](https://github.com/fabriziobertoglio1987/surfnative) and [WebApp](https://surfforecast.xyz/) built with Ruby on Rails and React-Native. The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA) is published on postman.
+
+<details><summary>CLICK TO OPEN VIDEO</summary>
+<p>
+
+<video src="https://github.com/fabriziobertoglio1987/fabriziobertoglio1987/assets/24992535/42e687b7-4f02-4dfb-bb3d-7288e1d7e93b" width="300" />     
+
+</p>
+</details>
+
+### SprachSpiel
+
+Language Game helping students to practice german skills through an in game live chat built with [ActionCable](https://guides.rubyonrails.org/action_cable_overview.html). Available for Desktop, Mobile and Tablet. [Android Native Mobile App](https://github.com/fabriziobertoglio1987/sprachspiel-android) available for download built with turbolinks-android and Ruby on Rails Website
 
 
+<details><summary>CLICK TO OPEN VIDEO</summary>
+<p>
 
+<img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif" width="300" /> 
+
+</p>
+</details>
+
+### GrowStartups
+
+Startups can use the app to distribute fliers in different cities around the world. Available for Desktop, Mobile and Tablet, possible launch to the App Stores in the future ([project](https://github.com/fabriziobertoglio1987/freeAdsWorldwide)).
+
+<details><summary>CLICK TO OPEN VIDEO</summary>
+<p>
+
+<img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif" width="300" />   
+
+</p>
+</details>
+
+### BarteringApps**
+
+Github Page [here](https://github.com/fabriziobertoglio1987/SocialNetwork)
 
 </p>
 </details>
