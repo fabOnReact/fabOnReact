@@ -39,7 +39,7 @@ Startups can use the app to distribute fliers in different cities around the wor
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
 
-<img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif" width="300" />   
+<img src="https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif" width="300" autoplay />   
 
 </p>
 </details>
