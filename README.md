@@ -1,8 +1,8 @@
-**2020-Present**: Specialized in React `Text` and `TextInput` components. Here you can find my `facebook/react-native` [pull requests][2].
-
-**2020**: [Video summary][5] of my opensource projects.
-
-**2017**: [Video presentation][6] of different apps that I developed in 2017. More info below:
+- I am specialized in React `Text` and `TextInput` components. Here you can find my `facebook/react-native` [pull requests][2].
+- This is my 2020 [Video summary][5] of my opensource projects.
+- 2017 [Video presentation][6] of my portfolio. More info below.
+- Here you can find my [resume][3], [LinkedIn][4], [Upwork][8] and [StackOverflow][7] profiles. This is my [Github Sponsor page](https://github.com/sponsors/fabriziobertoglio1987).
+- 2012-2017 I worked with Java on ERP Software, 2017-2023 Javascript and React.
   
 <details><summary>Portfolio of Apps (Github opensource projects 2017)</summary>
 <p>
@@ -52,9 +52,7 @@ Github Page [here](https://github.com/fabriziobertoglio1987/SocialNetwork)
 </p>
 </details>
 
-**2012-2017**: Previous experience with Java (ERP Software).
 
-Here you can find my [resume][3], [LinkedIn][4], [Upwork][8] and [StackOverflow][7] profiles. This is my [Github Sponsor page](https://github.com/sponsors/fabriziobertoglio1987).
 
 
 [1]: https://github.com/facebook/react-native
