@@ -12,7 +12,7 @@ Surf Forecasting Mobile Iphone, Androidbuilt with Ruby on Rails and React-Native
 
 ### SprachSpiel
 
-Language Game helping students to practice german skills through an in game live chat built with [ActionCable](https://guides.rubyonrails.org/action_cable_overview.html). Available for Desktop, Mobile and Tablet. [Android Native Mobile App](https://github.com/fabriziobertoglio1987/sprachspiel-android) available for download built with turbolinks-android and Ruby on Rails Website
+Language Game helping students to practice german skills through an in game live chat built with [ActionCable](https://guides.rubyonrails.org/action_cable_overview.html). Available for Desktop, Mobile and Tablet. [Android Native Mobile App](https://github.com/fabriziobertoglio1987/sprachspiel-android) available for download built with turbolinks-android and [Ruby on Rails Website](https://github.com/fabOnReact/sprachspiel).
 
 
 <details><summary>CLICK TO OPEN VIDEO</summary>
