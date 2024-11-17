@@ -1,4 +1,4 @@
-I have two video presentations about my SurfCheck, SprachSpiel and GrowStartups Apps from 2020 and 2017: 
+I have two video presentations of my 2017 projects: 
 
 - 2020 Video Presentation of the SurfCheck App at ReactNative EU 2020 available [here](https://youtu.be/9RQ2GiApkzU?si=1omI78VxNhgLAJQG)
 - 2017 Video Presentation of my Portfolio available [here](https://youtu.be/e-xMvhm_rXQ?si=FAt9lhUwafcm8QiY) 
