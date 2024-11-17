@@ -36,11 +36,11 @@ Startups can use the app to distribute fliers in different cities around the wor
 </p>
 </details>
 
-### BarteringApps**
+### BarteringApps
 
 Github Page [here](https://github.com/fabriziobertoglio1987/SocialNetwork)
 
-### Portfolio**
+### Portfolio
 
 Github Repository [here](https://github.com/fabOnReact/portfolio)
 
