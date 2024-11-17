@@ -1,3 +1,8 @@
+I have two video presentations about my SurfCheck, SprachSpiel and GrowStartups Apps from 2020 and 2017: 
+
+- 2020 Video Presentation of the SurfCheck App at ReactNative EU 2020 available [here](https://youtu.be/9RQ2GiApkzU?si=1omI78VxNhgLAJQG)
+- 2017 Video Presentation of my Portfolio available [here](https://youtu.be/e-xMvhm_rXQ?si=FAt9lhUwafcm8QiY) 
+
 ### SurfCheck
 
 Surf Forecasting Mobile Iphone, Androidbuilt with Ruby on Rails and React-Native. The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA) is published on postman (readme [backend](https://github.com/fabOnReact/surf-rails), readme [frontend](https://github.com/fabOnReact/surf-react-native)).
