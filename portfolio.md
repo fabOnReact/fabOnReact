@@ -5,7 +5,7 @@ I have two video presentations of my 2017 projects:
 
 ### SurfCheck
 
-Surf Forecasting Mobile Iphone, Androidbuilt with Ruby on Rails and React-Native. The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA) is published on postman (readme [backend](https://github.com/fabOnReact/surf-rails), readme [frontend](https://github.com/fabOnReact/surf-react-native)).
+Surf Forecasting Mobile Iphone, Android built with Ruby on Rails and React-Native. The [api documentation](https://documenter.getpostman.com/view/6379421/SVfH1CeA) is published on postman (readme [backend](https://github.com/fabOnReact/surf-rails), readme [frontend](https://github.com/fabOnReact/surf-react-native)).
 
 <details><summary>CLICK TO OPEN VIDEO</summary>
 <p>
