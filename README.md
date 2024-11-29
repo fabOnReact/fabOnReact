@@ -2,7 +2,6 @@
 - Here you can find my `facebook/react-native` [pull requests][2].
 - This is my 2020 [Video summary][5] of my opensource projects.
 - 2017 [Video presentation][6] of my portfolio. More info [here](https://github.com/fabOnReact/fabOnReact/blob/master/portfolio.md)
-- I worked with SAP and ABAP from 2012-2017 (more info on my [LinkedIn][4] profile).
 
 
 [1]: https://github.com/facebook/react-native
