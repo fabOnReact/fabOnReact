@@ -6,7 +6,7 @@
 
 [1]: https://github.com/facebook/react-native
 [2]: https://github.com/facebook/react-native/pulls?q=is%3Apr+author%3AfabOnReact+
-[3]: https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/certificates/fabrizio_bertoglio_resume.pdf "resume"
+[3]: https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/certificates/Fabrizio_Bertoglio_Resume_No_Email.pdf "resume"
 [4]: https://www.linkedin.com/in/fabrizio-bertoglio-3432ba253/ "LinkedIn"
 
 
