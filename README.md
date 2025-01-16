@@ -1,5 +1,5 @@
 - Here you can find my [Resume][3], [LinkedIn][4], [Upwork][8] and [StackOverflow][7] profiles. 
-- Here you can find my `facebook/react-native` [pull requests][2].
+- Here you can find my `facebook/react-native` [pull requests][2] and [commits][13].
 - This is my 2020 [Video summary][5] of my opensource projects.
 - 2017 [Video presentation][6] of my portfolio. More info [here](https://github.com/fabOnReact/fabOnReact/blob/master/portfolio.md)
 
@@ -18,3 +18,4 @@
 [10]: https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/sprachspiel.gif "sprachspiel video"
 [11]: https://portfoliofabrizio.s3.eu-central-1.amazonaws.com/growstartups.gif "growstartups video"
 [12]: https://d18yfpe0kbag8l.cloudfront.net/assets/barteringapps-a6616864d7e1adf021b729b3bcac29bfcffd041803327c46a61914cb3c394091.png "bartering apps"
+[13]: https://github.com/facebook/react-native/commits/main?author=fabOnReact "commits"
